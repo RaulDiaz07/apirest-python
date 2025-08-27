@@ -41,3 +41,7 @@ saber oq o freeze é útil
 ### pip freeze -r requirements.txt 
 
 'pip freeze -r requirements.txt' vai instalar todos os sistemas que estão listados no requirements.txt
+
+## comandos git
+
+### 'git checkout'
