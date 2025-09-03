@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 
+from src.model.agenda import ( get_agenda )
 app = Flask(__name__)
 
 

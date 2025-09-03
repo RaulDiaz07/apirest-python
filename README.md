@@ -45,3 +45,5 @@ saber oq o freeze é útil
 ## comandos git
 
 ### 'git checkout'
+
+## 'pip install mysql-connector'
